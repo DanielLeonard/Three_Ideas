@@ -17,9 +17,9 @@ The mainstream media and social media has made politics extremely murky and conf
 
 #### Cons
 
-• You need access to a device with internet access.
-• Fake accounts could be made to change the narrative, there would need to be precautious made eg send in Id blockchain
-• Some of the voters not may use it, this includes the 50+ demographic.
+* You need access to a device with internet access.
+* Fake accounts could be made to change the narrative, there would need to be precautious made eg send in Id blockchain, phone number.
+* Some of the voters not may use it, this includes the 50+ demographic.
 
 #### How might it be built
 
@@ -43,15 +43,15 @@ The driver is a loose term, they could be a plane pilot, a coach driver, a truck
 
 #### Pros
 
-• Cheaper travelling, commuting.
-• Helps reduce emissions via carpooling
-• Perfect for places with bad public transport.
+* Cheaper travelling, commuting.
+* Helps reduce emissions via carpooling.
+* Perfect for places with bad public transport.
 
 #### Cons
 
-• You may need a taxi license and different insurance depending on your country of origin.
-• Could just take public transport
-• Could be troublesome when borders are involved.
+* You may need a taxi license and different insurance depending on your country of origin.
+* Could just take public transport.
+* Could be troublesome when borders are involved.
 Has been done a couple of times but not well.
 
 #### How might it be built
@@ -66,7 +66,7 @@ The product is aimed at users that are from ages 18 to 30, this is an active dem
 
 Taking a fee of 10% for example per hitchhiker payment would ideally be the business model. Also, drivers could choose to pay more to advertise their seats.
 
-## Posture and Form Analyzer
+## Posture and Form Analyser
 
 #### Overview
 
@@ -76,14 +76,14 @@ I devise a mobile app that makes use of a phone's camera to lock onto all of you
 
 #### Pros
 
-• Helps prevent Injuries.
-• Provides athletes and coaches with an extra tool to monitor.
-• Helps to improve posture.
+* Helps prevent Injuries.
+* Provides athletes and coaches with an extra tool to monitor.
+* Helps to improve posture.
 
 #### Cons
 
-• Some exercises have a very complicated form.
-• It can be hard to track limbs in certain clothing.
+* Some exercises have a very complicated form.
+* It can be hard to track limbs in certain clothing.
 
 #### How might it be built
 
